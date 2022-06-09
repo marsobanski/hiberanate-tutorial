@@ -1,4 +1,4 @@
-package com.luv2code.jdbc;
+package com.luv2code.jdbc.test;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
